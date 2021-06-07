@@ -21,10 +21,11 @@ Please note that these features are for my personal server. It probably will not
   * There are 9 different classes you can select;
   * Crusader: Deals heavy damage with their two handed weapons but slow on feet
   * Archer: Good at dealing high damage to a single target, also dual wielding daggers looks cool
-  * Wizard: Filling up tank role with thier heavy armor and shield
-  * Paladin: Supports their allies with buffs and heals
+  * Paladin: Filling up tank role with thier heavy armor and shield
+  * Alchemist: Supports their allies with buffs and heals
+  * Wizard: Using spell to deal damage, ranged
   * Assassin: Deals damage from long ranged and has the ability kit to keep that range
-  * Samurai: Deals high damage from long range with their crossbows. Uses traps to hunt their targets
+  * Samurai: Kimochi
   * Bard: Musician?
   * Monk: Nam mo a di da phak
 * Spells
